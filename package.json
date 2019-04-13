@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "description": "Landing page for Andy Camera's personal website - short and simple (like me)",
   "license": "MIT",
-  "repository": "github:andy-cam/andy.camera"
+  "repository": "https://github.com/github:andy-cam/andy.camera",
+  "main": "index.html",
+  "author": "Andy Camera <contact@andy.camera>"
 }
