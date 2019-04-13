@@ -1,4 +1,8 @@
-language: minimal
+language: node_js
+node_js:
+  - '9'
+  - '8'
+- node
 install:
 - yarn global add travis-ci-cloudfront-invalidation
 - yarn
